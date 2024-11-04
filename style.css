@@ -1,0 +1,40 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.playfair-display-<uniquifier> {
+  	font-family: "Playfair Display", serif;
+  	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+  	font-style: normal;
+}
+
+h1{
+	color: #8b0a50;
+	text-align: center;
+	background-color: #7ec0ee;
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: "Playfair Display", serif;
+}
+
+body {
+	background-color: lightblue;
+}
+
+img {
+	width: 85px;
+}
+
+div {
+	text-align: center;
+	border: 3px solid white;
+	font-family: "Playfair Display", serif;
+}
+
+p {
+	text-align: center;
+	margin: 20px;
+}
